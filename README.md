@@ -8,7 +8,7 @@ In 'main.cpp', we have the test generation (void random_xml(int depth, string ta
 
 We can change MAX_LENGTH, MIN_LENGTH, MAX_DEPTH or MAX_ATTRIBUTES to generate XML file with different lengths (Do not set them too big, the xml file can be really large).
 
-There are 10000 iterations in main(), when we continuously write information to 'file.xml', parse it and then write those infomation (or objects) to 'output.xml'. See 'xml.h' for definitions and 'xml.c' for implementaions
+There are 10000 iterations in main(), when we continuously write information to 'file.xml', parse it and then write those infomation (or objects) to 'output.xml'. See 'xml.h' for definitions and 'xml.c' for implementations
 
 ### 'xml.h' and 'xml.c'
   

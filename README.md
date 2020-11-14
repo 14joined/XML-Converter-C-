@@ -25,3 +25,5 @@ There are 10000 iterations in main(), when we continuously write information to 
   - dictionary.txt (Test Gen resource)
   - file.xml (We get info. from this file)
   - output.xml (... and write it back to output.xml)
+
+Project 1 | 20201 | HUST
